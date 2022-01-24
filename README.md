@@ -55,7 +55,7 @@ pool.coleganet.com (51.195.88.15): seq=2, time=192.482µs
 pool.coleganet.com (51.195.88.15): seq=3, time=191.818µs
 pool.coleganet.com (51.195.88.15): seq=4, time=169.952µs
 
---- eth.2miners.com ping statistics ---
+--- pool.coleganet.com ping statistics ---
 5 packets transmitted, 5 received, 0% packet loss, time 5.021413961s
 min/avg/max = 165.527µs, 205.568µs, 308.065µs
 ```
