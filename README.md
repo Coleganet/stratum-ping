@@ -48,7 +48,7 @@ min/avg/max = 14.223268ms, 14.931963ms, 16.103118ms
 ### IPv4 using TLS:
 ```
 # ./stratum-ping -tls pool.coleganet.com:12020
-PING stratum eth.2miners.com (51.195.88.15) TLS port 12020
+PING stratum pool.coleganet.com (51.195.88.15) TLS port 12020
 pool.coleganet.com (51.195.88.15): seq=0, time=308.065µs
 pool.coleganet.com (51.195.88.15): seq=1, time=165.527µs
 pool.coleganet.com (51.195.88.15): seq=2, time=192.482µs
